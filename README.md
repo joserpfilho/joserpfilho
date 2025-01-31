@@ -2,6 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+World!+👋;+I'm+José!;" />
 </h1>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,postman,jenkins" />
+</p>
+
+<hr>
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserpfilho)](https://github.com/joserpfilho/github-readme-stats) -->
 <!--
 **joserpfilho/joserpfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
