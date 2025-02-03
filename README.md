@@ -7,10 +7,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,postman,jenkins" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgres,mysql" />      
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,github,postman,jenkins" />
+  </a>
 </p>
-
 <hr>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserpfilho)](https://github.com/joserpfilho/github-readme-stats) -->
