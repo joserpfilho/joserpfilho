@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,angular" />      
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgres,mysql,oracle" />      
-    <img src="https://skillicons.dev/icons?i=git,github,postman,jenkins" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,angular&perline=6" />      
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgres,mysql,oracle&perline=5" />      
+    <img src="https://skillicons.dev/icons?i=git,github,postman,jenkins&perline=4" />
   </a>
 </p>
 <hr>
