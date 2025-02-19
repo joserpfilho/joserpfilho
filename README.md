@@ -2,6 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+World!+👋;+I'm+José!;" />
 </h1>
 
+## 🚀 About Me
+
+- 💻 I enjoy working on frontend and backend development.
+- 📚 I'm always eager to learn and explore new programming languages and frameworks.
+- 🎯 My goal is to contribute to open source projects and collaborate with other developers.
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -17,18 +23,13 @@
 </p>
 <hr>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserpfilho)](https://github.com/joserpfilho/github-readme-stats) -->
-<!--
-**joserpfilho/joserpfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserpfilho&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/joserpfilho)
+- [Email](mailto:msreynaldojose@gmail.com)
+
+Feel free to reach out to me for collaborations or just to say hi! 😊
 -->
