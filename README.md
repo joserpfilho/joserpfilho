@@ -25,7 +25,7 @@
 
 
 ## 📈 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserpfilho&show_icons=true&theme=radical)
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserpfilho&show_icons=true&theme=dark)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/joserpfilho)
