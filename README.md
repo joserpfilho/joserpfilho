@@ -15,7 +15,8 @@
 - **Tools**: Git, GitHub, Docker, Jenkins, Postman
 
 ## 📈 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserpfilho&show_icons=true&theme=dark)
+  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joserpfilho&theme=dark" />
+  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserpfilho&layout=compact&langs_count=8&card_width=320&theme=dark" />
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/joserpfilho)
