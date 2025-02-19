@@ -8,21 +8,11 @@
 - 📚 I'm always eager to learn and explore new programming languages and frameworks.
 - 🎯 My goal is to contribute to open source projects and collaborate with other developers.
 
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react&perline=6" />     
-      <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgres,mysql,oracle&perline=5" />    
-      <br>
-    <img src="https://skillicons.dev/icons?i=git,github,postman,jenkins&perline=4" />
-  </a>
-</p>
-<hr>
-
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, TypeScript, C#
+- **Frameworks**: React, Angular, .NET,
+- **Databases**: PostgreSQL, SQLServer, MySQL, Oracle
+- **Tools**: Git, GitHub, Docker, Jenkins, Postman
 
 ## 📈 GitHub Stats
 ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserpfilho&show_icons=true&theme=dark)
